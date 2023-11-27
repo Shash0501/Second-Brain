@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "4ce2981b1d0fd1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "881f18c62512f71f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a1d1a860380b48b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2e6e6a5c5cdf263",
+    "type": "split",
+    "children": [
+      {
+        "id": "946b2365920ec2e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e4d60b1baa3770f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "881550d3f5ccba87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f6b4583e5561172",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db38dcfa586ec9f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f2670a753bcf7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19342eabe7432b17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efad8abf99cd6b75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcceaeac27f32574",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d9caa3baf741909",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e4d60b1baa3770f",
+  "lastOpenFiles": [
+    "College/TIS/Extra/Untitled",
+    "College/TIS/Extra/query-set-overlap control.md",
+    "College/TIS/Traditional Access Control Mechanisms.md",
+    "College/TIS/Introduction to Information Security.md",
+    "College/TIS/Extra",
+    "College/TIS/Access Control Matrix.md",
+    "College/Networking/TCP.md",
+    "College/Networking/Questions.md",
+    "College/Networking/TCP Handshake.md",
+    "College/Networking/Random Early Detection Queue discipline.md",
+    "College/Networking/Layered Architecture in Networking.md",
+    "College/Networking/L9 Packet Loss Detection Techniques in TCP.md",
+    "College/Networking/L8 AIMD Algorithm.md",
+    "College/Networking/L7 Impact of TCP 3-way handshake and Slow Start on  HTTP Traffic.md",
+    "College/Networking/L6  TCP Window Scaling.md",
+    "College/Networking/L5 Building blocks of TCP and slow start restart.md",
+    "College/Networking/L3  Building Blocks of TCP and TCP Fast Open (TFO).md",
+    "College/Networking/L14 Selective Acknowledgements (SACK) in TCP.md",
+    "College/Networking/L10 TCP Tahoe and TCP Reno.md",
+    "College/Networking/L1 Primer on Latency and Bandwidth.md",
+    "College/Networking/Intro to queue management.md",
+    "College/Networking/History of TCP-IP and Importance of Internet  Standardization.md",
+    "College/Networking/Data Center Networks.md",
+    "College/Engineering Economics/HDI.md",
+    "College/Engineering Economics/6 Concept of Value and Utility.md",
+    "College/Engineering Economics/23 Time value of Money.md",
+    "College/ADS/Trees.md",
+    "College/TIS",
+    "College/Networking",
+    "College/Engineering Economics",
+    "College/ADS",
+    "College"
+  ]
+}

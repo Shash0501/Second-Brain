@@ -1,0 +1,1 @@
+A BST is a tree such that the the value of node N is greater than every value in the left sub-tree of N and is less then every value in the right sub-tree of N
