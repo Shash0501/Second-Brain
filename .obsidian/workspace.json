@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/How is Golang written in GO.md",
+                "file": "learning/Rust/Common programming concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/How is Golang written in GO.md",
+                "file": "learning/Rust/Common programming concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/How is Golang written in GO.md",
+                "file": "learning/Rust/Common programming concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/How is Golang written in GO.md"
+                "file": "learning/Rust/Common programming concepts.md"
               }
             }
           }
@@ -162,6 +162,10 @@
   },
   "active": "3db88c8b4a93de61",
   "lastOpenFiles": [
+    "learning/Rust/Guessing game.md",
+    "learning/Rust/Common programming concepts.md",
+    "learning/Rust/Intro.md",
+    "learning/Rust/Getting started.md",
     "Articles/How is Golang written in GO.md",
     "Articles",
     "Articles",
@@ -189,9 +193,6 @@
     "College/Networking/L14 Selective Acknowledgements (SACK) in TCP.md",
     "College/Networking/L10 TCP Tahoe and TCP Reno.md",
     "College/Networking/L1 Primer on Latency and Bandwidth.md",
-    "College/Networking/Intro to queue management.md",
-    "College/Networking/History of TCP-IP and Importance of Internet  Standardization.md",
-    "College/Networking/Data Center Networks.md",
     "College/TIS",
     "College/Networking",
     "College/Engineering Economics",
