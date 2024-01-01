@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/Rust/Common programming concepts.md",
+                "file": "learning/Fundamentals of Database Engineering/ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/Rust/Common programming concepts.md",
+                "file": "learning/Fundamentals of Database Engineering/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/Rust/Common programming concepts.md",
+                "file": "learning/Fundamentals of Database Engineering/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/Rust/Common programming concepts.md"
+                "file": "learning/Fundamentals of Database Engineering/ACID.md"
               }
             }
           }
@@ -162,8 +162,13 @@
   },
   "active": "3db88c8b4a93de61",
   "lastOpenFiles": [
-    "learning/Rust/Guessing game.md",
+    "Pasted image 20240101232628.png",
+    "Pasted image 20240101201304.png",
+    "Readme.md",
+    "learning/Fundamentals of Database Engineering/ACID.md",
+    "learning/Fundamentals of Database Engineering",
     "learning/Rust/Common programming concepts.md",
+    "learning/Rust/Guessing game.md",
     "learning/Rust/Intro.md",
     "learning/Rust/Getting started.md",
     "Articles/How is Golang written in GO.md",
@@ -172,7 +177,6 @@
     "papers/Cassandra - A decentralized Storage system.md",
     "learning/Caching.md",
     "papers",
-    "Readme.md",
     "College/TIS/Extra/Untitled",
     "College/TIS/Extra/query-set-overlap control.md",
     "College/TIS/Traditional Access Control Mechanisms.md",
@@ -191,12 +195,9 @@
     "College/Networking/L5 Building blocks of TCP and slow start restart.md",
     "College/Networking/L3  Building Blocks of TCP and TCP Fast Open (TFO).md",
     "College/Networking/L14 Selective Acknowledgements (SACK) in TCP.md",
-    "College/Networking/L10 TCP Tahoe and TCP Reno.md",
-    "College/Networking/L1 Primer on Latency and Bandwidth.md",
     "College/TIS",
     "College/Networking",
     "College/Engineering Economics",
-    "College/ADS",
-    "College"
+    "College/ADS"
   ]
 }
