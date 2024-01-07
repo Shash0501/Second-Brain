@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/Fundamentals of Database Engineering/ACID.md",
+                "file": "learning/Fundamentals of Database Engineering/Database Internals.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db38dcfa586ec9f7",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/Fundamentals of Database Engineering/ACID.md",
+                "file": "learning/Fundamentals of Database Engineering/Database Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/Fundamentals of Database Engineering/ACID.md",
+                "file": "learning/Fundamentals of Database Engineering/Database Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/Fundamentals of Database Engineering/ACID.md"
+                "file": "learning/Fundamentals of Database Engineering/Database Internals.md"
               }
             }
           }
@@ -162,10 +161,12 @@
   },
   "active": "3db88c8b4a93de61",
   "lastOpenFiles": [
+    "Pasted image 20240102184751.png",
+    "learning/Fundamentals of Database Engineering/ACID.md",
+    "learning/Fundamentals of Database Engineering/Database Internals.md",
     "Pasted image 20240101232628.png",
     "Pasted image 20240101201304.png",
     "Readme.md",
-    "learning/Fundamentals of Database Engineering/ACID.md",
     "learning/Fundamentals of Database Engineering",
     "learning/Rust/Common programming concepts.md",
     "learning/Rust/Guessing game.md",
@@ -194,7 +195,6 @@
     "College/Networking/L6  TCP Window Scaling.md",
     "College/Networking/L5 Building blocks of TCP and slow start restart.md",
     "College/Networking/L3  Building Blocks of TCP and TCP Fast Open (TFO).md",
-    "College/Networking/L14 Selective Acknowledgements (SACK) in TCP.md",
     "College/TIS",
     "College/Networking",
     "College/Engineering Economics",
