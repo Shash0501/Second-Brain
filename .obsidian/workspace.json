@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "881f18c62512f71f",
+        "id": "34b5f4a625bd9aef",
         "type": "tabs",
         "children": [
           {
-            "id": "9a1d1a860380b48b",
+            "id": "116065955ba680cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Cassandra - A decentralized Storage system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3db88c8b4a93de61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/Fundamentals of Database Engineering/Database Internals.md",
+                "file": "papers/A Novel Distributed Database solution based on MySQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/Fundamentals of Database Engineering/Database Internals.md",
+                "file": "papers/A Novel Distributed Database solution based on MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/Fundamentals of Database Engineering/Database Internals.md",
+                "file": "papers/A Novel Distributed Database solution based on MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/Fundamentals of Database Engineering/Database Internals.md"
+                "file": "papers/A Novel Distributed Database solution based on MySQL.md"
               }
             }
           }
@@ -159,13 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3db88c8b4a93de61",
+  "active": "116065955ba680cb",
   "lastOpenFiles": [
-    "Pasted image 20240102184751.png",
-    "learning/Fundamentals of Database Engineering/ACID.md",
+    "images/Pasted image 20240120121733.png",
+    "papers/A Novel Distributed Database solution based on MySQL.md",
+    "images",
+    "College/Systems Programming/Intro to linux Modules.md",
     "learning/Fundamentals of Database Engineering/Database Internals.md",
-    "Pasted image 20240101232628.png",
-    "Pasted image 20240101201304.png",
+    "College/Systems Programming/Examples/getpidcall.c",
+    "learning/Fundamentals of Database Engineering/ACID.md",
+    "papers/Cassandra - A decentralized Storage system.md",
+    "images/Pasted image 20240109151009.png",
+    "images/Pasted image 20240109150944.png",
+    "learning/Miscellaneous.md",
+    "College/Systems Programming/Examples/Makefile",
+    "College/Systems Programming/Examples/hello.c",
+    "College/Systems Programming/Examples",
+    "College/Systems Programming",
+    "images/Pasted image 20240102184751.png",
+    "images/Pasted image 20240101232628.png",
+    "images/Pasted image 20240101201304.png",
     "Readme.md",
     "learning/Fundamentals of Database Engineering",
     "learning/Rust/Common programming concepts.md",
@@ -175,14 +175,11 @@
     "Articles/How is Golang written in GO.md",
     "Articles",
     "Articles",
-    "papers/Cassandra - A decentralized Storage system.md",
     "learning/Caching.md",
     "papers",
-    "College/TIS/Extra/Untitled",
     "College/TIS/Extra/query-set-overlap control.md",
     "College/TIS/Traditional Access Control Mechanisms.md",
     "College/TIS/Introduction to Information Security.md",
-    "College/TIS/Extra",
     "College/TIS/Access Control Matrix.md",
     "College/Networking/TCP.md",
     "College/Networking/Questions.md",
@@ -191,13 +188,6 @@
     "College/Networking/Layered Architecture in Networking.md",
     "College/Networking/L9 Packet Loss Detection Techniques in TCP.md",
     "College/Networking/L8 AIMD Algorithm.md",
-    "College/Networking/L7 Impact of TCP 3-way handshake and Slow Start on  HTTP Traffic.md",
-    "College/Networking/L6  TCP Window Scaling.md",
-    "College/Networking/L5 Building blocks of TCP and slow start restart.md",
-    "College/Networking/L3  Building Blocks of TCP and TCP Fast Open (TFO).md",
-    "College/TIS",
-    "College/Networking",
-    "College/Engineering Economics",
-    "College/ADS"
+    "College/Networking/L7 Impact of TCP 3-way handshake and Slow Start on  HTTP Traffic.md"
   ]
 }
