@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34b5f4a625bd9aef",
+        "id": "3c86774b65a05290",
         "type": "tabs",
         "children": [
           {
-            "id": "116065955ba680cb",
+            "id": "5e0429f9c408fd79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/A Novel Distributed Database solution based on MySQL.md",
+                "file": "College/Systems Programming/Intro to linux Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "db38dcfa586ec9f7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/A Novel Distributed Database solution based on MySQL.md",
+                "file": "College/Systems Programming/Intro to linux Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/A Novel Distributed Database solution based on MySQL.md",
+                "file": "College/Systems Programming/Intro to linux Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/A Novel Distributed Database solution based on MySQL.md"
+                "file": "College/Systems Programming/Intro to linux Modules.md"
               }
             }
           }
@@ -146,19 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "116065955ba680cb",
+  "active": "5e0429f9c408fd79",
   "lastOpenFiles": [
-    "images/Pasted image 20240120121733.png",
-    "papers/A Novel Distributed Database solution based on MySQL.md",
-    "images",
     "College/Systems Programming/Intro to linux Modules.md",
+    "learning/Rust/Getting started.md",
+    "learning/Rust/Common programming concepts.md",
+    "learning/Miscellaneous.md",
+    "learning/Caching.md",
+    "papers/A Novel Distributed Database solution based on MySQL.md",
+    "College/High Performance Computing Paradigm/M1 - 2 Performance of Processors.md",
+    "College/High Performance Computing Paradigm/M1 - 1 - Technology.md",
+    "College/High Performance Computing Paradigm",
+    "images/Pasted image 20240120121733.png",
+    "images",
     "learning/Fundamentals of Database Engineering/Database Internals.md",
     "College/Systems Programming/Examples/getpidcall.c",
     "learning/Fundamentals of Database Engineering/ACID.md",
     "papers/Cassandra - A decentralized Storage system.md",
     "images/Pasted image 20240109151009.png",
     "images/Pasted image 20240109150944.png",
-    "learning/Miscellaneous.md",
     "College/Systems Programming/Examples/Makefile",
     "College/Systems Programming/Examples/hello.c",
     "College/Systems Programming/Examples",
@@ -168,15 +174,11 @@
     "images/Pasted image 20240101201304.png",
     "Readme.md",
     "learning/Fundamentals of Database Engineering",
-    "learning/Rust/Common programming concepts.md",
     "learning/Rust/Guessing game.md",
     "learning/Rust/Intro.md",
-    "learning/Rust/Getting started.md",
     "Articles/How is Golang written in GO.md",
     "Articles",
     "Articles",
-    "learning/Caching.md",
-    "papers",
     "College/TIS/Extra/query-set-overlap control.md",
     "College/TIS/Traditional Access Control Mechanisms.md",
     "College/TIS/Introduction to Information Security.md",
@@ -187,7 +189,6 @@
     "College/Networking/Random Early Detection Queue discipline.md",
     "College/Networking/Layered Architecture in Networking.md",
     "College/Networking/L9 Packet Loss Detection Techniques in TCP.md",
-    "College/Networking/L8 AIMD Algorithm.md",
-    "College/Networking/L7 Impact of TCP 3-way handshake and Slow Start on  HTTP Traffic.md"
+    "College/Networking/L8 AIMD Algorithm.md"
   ]
 }
